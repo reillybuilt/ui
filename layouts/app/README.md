@@ -1,5 +1,5 @@
 # App Layout
 
-![animated](/animated.gif)
+![animated](animated.gif)
 
-![image](/image.png)
+![image](image.png)
